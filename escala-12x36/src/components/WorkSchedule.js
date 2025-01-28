@@ -56,7 +56,11 @@ const WorkSchedule = () => {
 
     <br/>
 
-    <button onClick={calculateShedule}>Calcular</button>
+    <button style={{
+      backgroundColor:"#4CAF50", 
+      color:"white",
+    }} 
+    onClick={calculateShedule}>Calcular</button>
 
     <h3>{result}</h3>
     </div>
