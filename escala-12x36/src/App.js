@@ -1,9 +1,13 @@
-import './App.css';
+import React from 'react'
+// import './App.css';
+import Header from './components/Header';
+import WorkSchedule from './components/WorkSchedule';
 
 function App() {
   return (
     <div className="App">
-      <h1>Escala 12x36</h1>
+      <Header/>
+      <WorkSchedule/>
     </div>
   );
 }
