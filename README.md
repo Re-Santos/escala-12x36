@@ -14,7 +14,7 @@ Interface elegante inspirada no setor de hotelaria
 
 
 🚀 Acesse o projeto
-🔗 escala-12x36.vercel.app
+🔗 www.escala-12x36.vercel.app
 
 🛠️ Tecnologias utilizadas
 
